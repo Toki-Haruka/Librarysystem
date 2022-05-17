@@ -191,7 +191,7 @@ while(keys.hasMoreElements()) {
 	}
 /**
  * 重置事件的处理
- * @param
+ * @param e
  */
 	private void resetValueActionPerformed(ActionEvent evt) {
 		this.userNameTxt.setText("");

@@ -52,7 +52,7 @@ public class a extends JFrame {
     //用户名
     public final static String USERNAME = "root";
     //密码
-    public final static String PASSWORD = "123456";
+    public final static String PASSWORD = "";
     //加载的驱动程序类（这个类就在我们导入的jar包中）
     public final static String DRIVER = "com.mysql.cj.jdbc.Driver";
     
